@@ -1,0 +1,2 @@
+CLEAR Corpus (Kaggle): https://www.kaggle.com/datasets/verracodeguacas/clear-corpus
+Irish News Dataset (Google Drive): https://drive.google.com/drive/folders/1O-7dmw9rlJrq54PA73_4_PrWE9Frtb8-?usp=sharing
